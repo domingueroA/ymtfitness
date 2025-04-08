@@ -1,9 +1,9 @@
 /* App.css */
 
 body {
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #ea9d66, #764ba2);
     overflow-x: hidden;
-    color: #e7e9f0;
+    color: #3f465e;
     font-family: 'Lato', sans-serif;
 }
 .app-container {
